@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="java_augmented_reality_example/app/src/main/java"/>
+	<classpathentry kind="src" path="java_basic_examples/hello_area_description/src/main/java"/>
+	<classpathentry kind="src" path="java_basic_examples/hello_depth_perception/src/main/java"/>
+	<classpathentry kind="src" path="java_basic_examples/hello_motion_tracking/src/main/java"/>
+	<classpathentry kind="src" path="java_basic_examples/hello_video/src/main/java"/>
+	<classpathentry kind="src" path="java_examples_utils/app/src/main/java"/>
+	<classpathentry kind="src" path="java_floor_plan_reconstruction_example/app/src/main/java"/>
+	<classpathentry kind="src" path="java_green_screen_example/app/src/main/java"/>
+	<classpathentry kind="src" path="java_marker_detection_example/app/src/main/java"/>
+	<classpathentry kind="src" path="java_mesh_builder_example/app/src/main/java"/>
+	<classpathentry kind="src" path="java_model_correspondence_example/app/src/main/java"/>
+	<classpathentry kind="src" path="java_motion_tracking_example/app/src/main/java"/>
+	<classpathentry kind="src" path="java_occlusion_example/app/src/main/java"/>
+	<classpathentry kind="src" path="java_opengl_augmented_reality_example/opengl_ar/src/main/java"/>
+	<classpathentry kind="src" path="java_plane_fitting_example/app/src/main/java"/>
+	<classpathentry kind="src" path="java_point_cloud_example/app/src/main/java"/>
+	<classpathentry kind="src" path="java_point_to_point_example/app/src/main/java"/>
+	<classpathentry kind="lib" path="java_augmented_reality_example/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="java_basic_examples/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="java_examples_utils/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="java_floor_plan_reconstruction_example/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="java_green_screen_example/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="java_marker_detection_example/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="java_mesh_builder_example/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="java_model_correspondence_example/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="java_motion_tracking_example/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="java_occlusion_example/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="java_opengl_augmented_reality_example/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="java_plane_fitting_example/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="java_point_cloud_example/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="java_point_to_point_example/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="TangoReleaseLibs/jar/tango_java_lib.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
